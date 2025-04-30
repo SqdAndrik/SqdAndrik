@@ -15,7 +15,7 @@
 
 - Proficient in: ???
 
-- Languages: English, Russsia, Ukrainian
+- Languages: Ukrainian, Russsia
 
 <br/>
 <br/>
