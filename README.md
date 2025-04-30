@@ -28,6 +28,6 @@
 <br/><br/>
 <p align='center'>
 <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a> <a href="https://instagram.com/sqdandrik"><img src="https://img.shields.io/badge/INSTAGRAM-DAC6C2?style=for-the-badge"/></a> <a href="https://t.me/sqdandrik"><img src="https://img.shields.io/badge/TELEGRAM-DAC6C2?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
-<img src="https://ibb.co/MDvtJ93j" width="100%" align="center" />
+<img src="https://i.ibb.co/nNfP99t7/ppp1.png" width="100%" align="center" />
 </div>
 
